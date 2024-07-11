@@ -1,0 +1,17 @@
+.component-container {
+  height: 305vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.child-component-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.border-service {
+  border: 2px solid black;
+}
